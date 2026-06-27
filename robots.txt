@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://l01031664844-art.github.io/booktong-gai/sitemap.xml
